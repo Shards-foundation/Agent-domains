@@ -1,0 +1,5 @@
+{
+  "name": "AgentDomain",
+  "description": "Infrastructure for username.agent identity, logging, and persistent AI execution.",
+  "requestFramePermissions": []
+}
